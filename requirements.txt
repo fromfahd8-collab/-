@@ -1,0 +1,8 @@
+PyQt6==6.7.1
+PyQt6-WebEngine==6.7.0
+PyQt6-QtMultimedia
+yt-dlp>=2024.08.06
+plyer==2.1.0
+Pillow==10.4.0
+keyboard==2.3.2
+requests==2.32.3
